@@ -1,3 +1,4 @@
+![logo](https://github.com/ojuskumar/ojuskumar/blob/main/Ojus%20kumar.png) 
 <h1 align="center">Hi 👋, I'm Ojus kumar</h1>
 <h3 align="center">A passionate Data Scientist,Full Stack Web Dev Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
